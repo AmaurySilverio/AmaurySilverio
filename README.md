@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Amaury Silverio</h1>
-![Beige Simple Elegant Personal LinkedIn Banner]
-(https://user-images.githubusercontent.com/76449195/233174742-c54bda06-5902-44cb-a2b0-095cd996e257.jpg)
+![Beige Simple Elegant Personal LinkedIn Banner](https://user-images.githubusercontent.com/76449195/233174934-93be5e71-aa00-48ec-826c-da8690b55869.jpg)
 
 <h3 align="center">A passionate full-stack developer from Boston</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaurysilverio&label=Profile%20views&color=0e75b6&style=flat" alt="amaurysilverio" /> </p>
