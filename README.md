@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Building a Fullstack Application with user login capabilities
 
-- 🌱 I’m currently learning **JavaScript and Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
