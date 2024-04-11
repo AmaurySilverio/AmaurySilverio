@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Building a Fullstack Application with user login capabilities
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **AI**, and **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
@@ -21,7 +21,7 @@
 
 - 📝 I regularly tweet on [twitter @AmauryCodes](https://twitter.com/AmauryCodes)
 
-- 💬 Ask me about How I made my matching card game 👀
+- 💬 Ask me about How I made my NYT Connections Dupe 👀
 
 - 📫 How to reach me: **amaurycodes@gmail.com**
 
