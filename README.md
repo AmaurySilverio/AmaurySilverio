@@ -9,7 +9,7 @@
 **AmaurySilverio/AmaurySilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Building a Fullstack Application with user login capabilities
+- 🔭 I’m currently working on Building a React Native mobile app
 
 - 🌱 I’m currently learning **React**, **AI**, and **Data Structures and Algorithms**
 
