@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Building a React Native mobile app
 
-- 🌱 I’m currently learning **React**, **AI**, and **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React**, **AI**, & **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
