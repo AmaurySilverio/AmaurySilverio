@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on Building a React Native mobile app
 
-- 🌱 I’m currently learning **React**, **AI**, & **Data Structures and Algorithms**
+- 🌱 I’m currently learning **AI Implementation**, & **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
-- 🤔 I’m looking for help with **JavaScript and MongoDB**
+- 🤔 I’m looking for help with **MCP Servers**
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://amaurycodes.netlify.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://amaurycodes.onrender.com/)
 
 - 📝 I regularly tweet on [twitter @AmauryCodes](https://twitter.com/AmauryCodes)
 
-- 💬 Ask me about How I made my NYT Connections Dupe 👀
+- 💬 Ask me about How I made my Interactive Portfolio 👀
 
 - 📫 How to reach me: **amaurycodes@gmail.com**
 
